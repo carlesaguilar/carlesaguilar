@@ -8,7 +8,7 @@ Soy un apasionado de la tecnología, con especial interés por las tecnologías 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 <br />
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Jetpack_Compose](https://img.shields.io/badge/jetpack_compose-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
+[![Jetpack_Compose](https://img.shields.io/badge/jetpack_compose-083042?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 <br />
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
