@@ -1,7 +1,8 @@
-### Hola 👋, mi nombre es Carles Aguilar y trabajo como desarrollador Android / Web
-Soy un apasionado de la tecnología, con especial interés por las tecnologías móviles. Me considero una persona proactiva, comprometida con mi trabajo y con un gran sentido de la responsabilidad, y con ganas constantes de superación, como así demuestra mi formación a lo largo de mi carrera profesional y mi experiencia.
+### Hi 👋, my name is Carles Aguilar and I work as full-stack Android & Web engineer
+I am really passionate about technology, more specifically in mobile native apps. I am proactive and accountable with the work myself and my team works on. 
+I strive to solve new business challenges and projects, as demonstrated by my training throughout my career and experience, while continue learning new best practices, technologies… around mobile native apps and web development to best serve the project.
 
-#### Habilidades
+#### Skills
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -15,5 +16,5 @@ Soy un apasionado de la tecnología, con especial interés por las tecnologías 
 [![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-- 🔭 Puedes ver mi perfil profesional en [LinkedIn](https://www.linkedin.com/in/carlesav/)
-- 💬 Puedes contactar conmigo en: carles@carlesguilar.com 
+- 🔭 You can see my professional profile on [LinkedIn](https://www.linkedin.com/in/carlesav/)
+- 💬 You can contact me at carles@carlesav.dev 
