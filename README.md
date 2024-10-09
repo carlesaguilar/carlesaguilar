@@ -17,4 +17,4 @@ I strive to solve new business challenges and projects, as demonstrated by my tr
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 - 🔭 You can see my professional profile on [LinkedIn](https://www.linkedin.com/in/carlesav/)
-- 💬 You can contact me at carles@carlesav.dev 
+- 💬 You can contact me at carlesav@gmail.com 
